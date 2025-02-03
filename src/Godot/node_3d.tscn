@@ -1,0 +1,15 @@
+[gd_scene load_steps=3 format=3 uid="uid://bsv5sd15w52e3"]
+
+[ext_resource type="Script" path="res://box_rotation_script.gd" id="1_bxp14"]
+[ext_resource type="Material" uid="uid://cgv1bhrlor2mr" path="res://box_material.tres" id="1_by1jp"]
+
+[node name="Node3D" type="Node3D"]
+
+[node name="CSGBox3D" type="CSGBox3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0)
+size = Vector3(3.44, 0.595, 1.38)
+material = ExtResource("1_by1jp")
+script = ExtResource("1_bxp14")
+
+[node name="Camera3D" type="Camera3D" parent="."]
+transform = Transform3D(-4.37114e-08, 0.300706, -0.953717, 0, 0.953717, 0.300706, 1, 1.31443e-08, -4.16883e-08, -4.14, 1.57, 0)
