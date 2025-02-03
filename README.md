@@ -12,6 +12,6 @@ To run this project do as follow.
 
 # Step 2
 1) Download Godot Engine from here https://godotengine.org/
-2) Open it and import the project. Click the import button and browse through the "Godot" folder and select the corresponding "project.godot" file.
+2) Open it and import the project. Click the import button and browse through the "/src/Godot/" folder and select the corresponding "project.godot" file.
 3) Change the offset values according to your need.
 4) Run the game.
