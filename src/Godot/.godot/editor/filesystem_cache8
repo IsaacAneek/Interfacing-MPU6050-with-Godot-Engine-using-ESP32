@@ -1,0 +1,6 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1738944235
+box_material.tres::StandardMaterial3D::5238907184099808925::1738940948::0::1::::<><>::
+box_rotation_script.gd::GDScript::-1::1738940948::0::1::::<>CSGBox3D<>::
+icon.svg::CompressedTexture2D::1686918746145738460::1738940948::1738944237::1::::<><>::
+node_3d.tscn::PackedScene::3695025655214859168::1738944245::0::1::::<><>::res://box_rotation_script.gd<>uid://cgv1bhrlor2mr::::res://box_material.tres
