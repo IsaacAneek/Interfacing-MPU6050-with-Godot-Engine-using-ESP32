@@ -1,0 +1,40 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1738943008
+box_rotation_script.gd::GDScript::-1::1738573560::0::1::::<>CharacterBody2D<>::
+Camera.gd::GDScript::-1::1716315832::0::1::::<>Camera3D<>::
+empty.png::CompressedTexture2D::6878697356896505953::1716315832::1730140956::1::::<><>::
+enemy.gd::GDScript::-1::1716315832::0::1::::<>RigidBody3D<>::
+enemy.tscn::PackedScene::266837019975161596::1716315832::0::1::::<><>::res://enemy.gd
+export_presets.cfg::TextFile::-1::1716315832::0::1::::<><>::
+full.png::CompressedTexture2D::3722602828804767366::1716315832::1730140956::1::::<><>::
+icon.svg::CompressedTexture2D::982103501590736988::1716315832::1730140956::1::::<><>::
+menu.tscn::PackedScene::6972061654510046784::1738573560::0::1::::<><>::uid://bn48v2mdby7nf::::res://assets/Ubuntu-M.ttf
+node_3d.gd::GDScript::-1::1716315832::0::1::::<>Node3D<>::
+node_3d.tscn::PackedScene::5479344750414298265::1738573560::0::1::::<><>::res://player.gd<>res://node_3d.gd<>uid://d2i1clxy4n3i::::res://enemy.tscn<>uid://cvy1io8hoso2::::res://assets/pistol_0.png<>uid://cj1jqktuasw86::::res://assets/pistol_1.png<>uid://5wgq6fdynnmo::::res://assets/762x39 Single Isolated WAV.wav<>uid://0oc3jutq2mk6::::res://assets/pistol_2.png<>uid://dagj2gp0b4x1i::::res://assets/9mm Pistol Dry Fire.wav<>uid://cntslapbyii88::::res://assets/pistol_3.png<>uid://bxcl6r7er3c8l::::res://assets/pistol_4.png<>uid://cosi2kbgi3w36::::res://assets/pistol_5.png<>uid://bhi2bj4bv0gdd::::res://assets/pistol_6.png<>uid://c5vvixni6t856::::res://assets/9mm Pistol Rack Part 1.wav<>uid://bbgh0vlj6xpi0::::res://assets/9mm Pistol Reload 1.wav<>uid://bcpppumyh35rj::::res://assets/9mm Pistol Rack Part 2.wav<>uid://p28swbpm4prs::::res://assets/9mm Pistol Reload 2.wav<>uid://dvm1eb2a3t11f::::res://assets/9mm Pistol Rack Full.wav<>uid://i1xsfxvo8ctf::::res://UI.tscn<>res://functions/main.gd
+pistol.tscn::PackedScene::853522455529753660::1716315832::0::1::::<><>::uid://dxe12rmlvwjfw::::res://assets/pistol.glb
+player.gd::GDScript::-1::1738572646::0::1::::<>CharacterBody3D<>::
+README.md::TextFile::-1::1716315832::0::1::::<><>::
+UI.gd::GDScript::-1::1716315832::0::1::::<>Control<>::
+UI.tscn::PackedScene::616613504955134939::1716315832::0::1::::<><>::res://UI.gd<>uid://crc6twp0rgprx::::res://assets/ammo.png<>uid://6i2c06kqgnao::::res://assets/bullet.png
+::res://assets/::1738942911
+9mm Pistol Dry Fire.wav::AudioStreamWAV::7172243326424548528::1716315832::1730140957::1::::<><>::
+9mm Pistol Rack Full.wav::AudioStreamWAV::8659586179785512697::1716315832::1730140957::1::::<><>::
+9mm Pistol Rack Part 1.wav::AudioStreamWAV::6923149181086970343::1716315832::1730140957::1::::<><>::
+9mm Pistol Rack Part 2.wav::AudioStreamWAV::2558702649185729043::1716315832::1730140957::1::::<><>::
+9mm Pistol Reload 1.wav::AudioStreamWAV::2469466578086948205::1716315832::1730140957::1::::<><>::
+9mm Pistol Reload 2.wav::AudioStreamWAV::1110607816738913880::1716315832::1730140957::1::::<><>::
+9mm Single Isolated.wav::AudioStreamWAV::3645793197269325377::1716315832::1730140957::1::::<><>::
+762x39 Single Isolated WAV.wav::AudioStreamWAV::2151476130506144994::1716315832::1730140957::1::::<><>::
+ammo.png::CompressedTexture2D::5972097801445452085::1716315832::1730140957::1::::<><>::
+bullet.png::CompressedTexture2D::2194013466652663410::1716315832::1730140957::1::::<><>::
+pistol.glb::PackedScene::8783490735980980804::1716315832::1730140960::1::::<><>::uid://cvy1io8hoso2::::res://assets/pistol_0.png<>uid://cj1jqktuasw86::::res://assets/pistol_1.png<>uid://0oc3jutq2mk6::::res://assets/pistol_2.png<>uid://cntslapbyii88::::res://assets/pistol_3.png<>uid://bxcl6r7er3c8l::::res://assets/pistol_4.png<>uid://cosi2kbgi3w36::::res://assets/pistol_5.png<>uid://bhi2bj4bv0gdd::::res://assets/pistol_6.png
+pistol_0.png::CompressedTexture2D::185233701902600383::1716315832::1730140957::1::::<><>::
+pistol_1.png::CompressedTexture2D::5458790362865652137::1716315832::1730140957::1::::<><>::
+pistol_2.png::CompressedTexture2D::1783794320214485979::1716315832::1730140957::1::::<><>::
+pistol_3.png::CompressedTexture2D::5725632084860407619::1716315832::1730140957::1::::<><>::
+pistol_4.png::CompressedTexture2D::4005617031943705445::1716315832::1730140957::1::::<><>::
+pistol_5.png::CompressedTexture2D::5793178457332031375::1716315832::1730140957::1::::<><>::
+pistol_6.png::CompressedTexture2D::2895899273374372857::1716315832::1730140957::1::::<><>::
+Ubuntu-M.ttf::FontFile::3360785205095281903::1716315832::1730140956::1::::<><>::
+::res://functions/::1738942911
+main.gd::GDScript::-1::1716315832::0::1::::<>Node<>::
