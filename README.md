@@ -23,14 +23,14 @@ To run this project do as follow.
 4) Change the offset values and rotation vectors according to your need.
 5) Run the game.
 
-#To-Do
+# To-Do
 - Use quaternions instead of euler angles
 - Use a sensor fusion algorithm
 - Properly calibrate the IMU sensor
 - Refactor the code
 
-#LICENSING:
+# LICENSING:
 MIT License applicable to anything not already covered by another License
 
-#Credits
+# Credits
 The project [OpenFPS](https://github.com/IMYdev/OpenFPS "OpenFPS") is made by [IMYdev](https://github.com/IMYdev "IMYdev"). Code is licensed under MIT License. All assets are licensed under [Creative Commons (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/ "Creative Commons (CC BY 4.0)")
